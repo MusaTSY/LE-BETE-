@@ -1,0 +1,148 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+li{
+  list-style: none;
+  padding:1em;
+  text-decoration:none;
+  color: black;
+  margin-top: 10px;
+}
+ul {
+  list-style: none;
+  padding:4em;
+  padding-right:7em;
+  box-sizing: border-box;
+  text-decoration:none;
+}
+.Caption {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  font-family: HelveticaNeue-Medium, "HelveticaNeueMedium", Helvetica, Arial, sans-serif;
+}
+.link{
+  text-decoration:none;
+  color: white;
+}
+
+body {
+  background-color: rgb(204, 192, 179);
+  font-family: Arial, sans-serif;
+}
+.logo {
+  font-family: typeface-body, serif;
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px 4px #333;;
+}
+
+.logo-container {
+  position: absolute;
+  top: 5%;
+  left: 4%;
+  font-size: 25px;
+    color: grey;
+}
+
+
+.menu {
+  text-align: right;
+}
+
+a:hover {
+  font-size: x-large;
+  color: darkgray;
+}
+
+
+#commission {
+  position: fixed;
+  left: 12%;
+  top: 10%;
+  width: 50%;
+}
+
+form {
+  max-width: 700px;
+  width: 90%;
+  margin: 17vh auto;
+  padding: 40px;
+  background: rgb(204, 192, 179);
+  border-radius: 3px;
+  box-sizing: border-box;
+    box-shadow: 10px 10px 70px rgba(0, 0, 0, .5);
+}
+
+
+form > h1 {
+  margin: 0;
+  text-align: left;
+  font-size: 40px;
+    font-family: typeface-body, serif;
+}
+
+label, textarea {
+  display: block;
+  margin: 20px 0;
+}
+
+input, textarea {
+    font-family: Helvetica;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #b80c0c00;
+  box-sizing: border-box;
+  outline: none;
+  resize: none;
+}
+
+input[type="text"]:focus, textarea:focus {
+  border-bottom: 1px solid darkgray;
+  border-width: 3px;
+}
+
+textarea::-webkit-scrollbar {
+  width: 4px;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background: #882341;
+}
+
+.center {
+  text-align: center;
+}
+input[type="submit"] {
+  margin-top: 20px;
+  width: 90%;
+  max-width: 200px;
+  background: whitesmoke;
+  color: black;
+  font-size: 18px;
+    font-family: typeface-body, serif;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: darkgrey;
+}
+body {;
+  font-family: Arial, sans-serif;
+  background-image: url(about_duo.jpg);
+  background-position: bottom;
+  backdrop-filter: blur(1.5px);
+}
+
+.blur{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
