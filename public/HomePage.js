@@ -1,1 +1,0 @@
-const myElement = document.getElementById("h1logo").innerText = "Dream Silverware";

@@ -1,1 +1,0 @@
-const myElement = document.getElementById("inventorylogo").innerText = "Inventory";
