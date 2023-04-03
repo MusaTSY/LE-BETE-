@@ -1,6 +1,6 @@
 :root{
-  --left-bg-color: rgba(87,84,236,0.7);
-  --right-bg-color: rgba(43,43,43, 0.8);
+  --left-bg-color: rgba(87,84,236,0.3);
+  --right-bg-color: rgba(255,250,205,0.3);
   --hover-width:75%;
   --other-width:25%;
   --speed: 1000ms;
@@ -121,7 +121,7 @@ container {
 }
 .split.left{
   left: 0;
-  background: black;
+   background: url("dress1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -134,7 +134,7 @@ container {
 }
 .split.right{
   right: 0;
-  background: cadetblue;
+  background: url("dress2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }.split.right::before{
