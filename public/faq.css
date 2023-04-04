@@ -1,12 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Jost&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Muli", sans-serif;
+  font-family: "Jost", sans-serif;
   background-color: #f0f0f0;
+  background-image: url('faqbackgroundpic.jpg');
+  background-size:cover;
   overflow: hidden;
   margin: 0;
 }
@@ -73,6 +75,7 @@ a:hover {
 .faq-h1 {
   margin: 50px 0 30px;
   text-align: center;
+  color: white;
 }
 
 .faq-container {
@@ -81,7 +84,7 @@ a:hover {
 }
 
 .faq {
-  background-color: transparent;
+  background-color: #e6e6e6;
   border: 1px solid #9fa4a8;
   border-radius: 10px;
   margin: 20px 0;
@@ -100,17 +103,16 @@ a:hover {
 .faq.active::after {
   content: "\f075";
   font-family: "Font Awesome 5 Free";
-  color: #2ecc71;
   font-size: 7rem;
   position: absolute;
-  opacity: 0.2;
+  opacity: 0;
   top: 20px;
   left: 20px;
   z-index: 0;
 }
 
 .faq.active::before {
-  color: #3498db;
+  opacity: 0;
   top: -10px;
   left: -30px;
   transform: rotateY(180deg);
