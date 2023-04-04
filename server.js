@@ -5,6 +5,8 @@ const express = require('express');
 const app = express()
 const port = 3000
 
+//Routes for the app
+
 //Serving static files from the public folder
 app.use(express.static("./public"))
 
