@@ -127,7 +127,7 @@ body {
 }
 .split.left{
   left: 0;
-   background: url("dress1.jpg");
+   background: url("dress2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -140,7 +140,7 @@ body {
 }
 .split.right{
   right: 0;
-  background: url("dress2.jpg");
+  background: url("dress1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }.split.right::before{
@@ -195,6 +195,14 @@ body {
 
 @media(max-width: 800px){
   h1{
+    font-size:2rem;
+    top:30%;
+  }
+  h2{
+    font-size:2rem;
+    top:30%;
+  }
+   p{
     font-size:2rem;
     top:30%;
   }
