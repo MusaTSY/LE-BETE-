@@ -8,6 +8,6 @@ const port = 3000
 //Routes for the app
 
 //Serving static files from the public folder
-app.use(express.static("./public"))
+app.use(express.static("./public/Code"))
 
 app.listen(port, () => console.log(`App is listening on port ${port}!`))
