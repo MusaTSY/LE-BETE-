@@ -3,8 +3,8 @@
 
 ### Table of Contents 
 - [Description](#description)
-- [Instructions](#instructions)
 - [Pictures](#pictures)
+- [Instructions](#instructions)
 - [Authors](#authors)
 
 

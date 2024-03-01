@@ -114,7 +114,7 @@ body {
 }
 .split.left{
   left: 0;
-  background: url("x-tra-MONSTER-Cord-Cloudworker-Twill-Daniel-Ledermann-by-Hannes-Mautner-28-1920x1080.webp");
+  background: url("Images/x-tra-MONSTER-Cord-Cloudworker-Twill-Daniel-Ledermann-by-Hannes-Mautner-28-1920x1080.webp");
   background-repeat: no-repeat;
   background-size:cover;
   text-align: center;
@@ -130,7 +130,7 @@ body {
 }
 .split.right{
   right: 0;
-  background: url("dress1.jpg");
+  background: url("Images/dress1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
