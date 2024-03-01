@@ -1,6 +1,8 @@
 # LE BETE CLOTHING WEBSITE GROUP PROJECT 
 
 ![Project Image](/public/Readme/HomePage.PNG)
+![Project Image](/public/Readme/InteractiveHome.PNG)
+
 > lalal
 ---
 ### Table of Contents 
