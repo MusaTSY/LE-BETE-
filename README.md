@@ -23,7 +23,7 @@ Throughout the project, we prioritized interactivity with the end user, employin
 
 
 ![Project Image](/public/Readme/collections.PNG)
-![Project Image](/public/Readme/consistent.PNG)
+![Project Image](/public/Readme/Consistent.PNG)
 > Consistent Design across Webpages 
 ---
 
