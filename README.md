@@ -1,5 +1,9 @@
-# 355 Project 2
-This project is built using HTML,CSS,JS and Node's Express framework.
+# LE BETE CLOTHING WEBSITE GROUP PROJECT 
+
+![Project Image](AboutMe.png)
+> Project Bio 
+
+---
 
 ## Instructions
 
